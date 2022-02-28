@@ -1,3 +1,10 @@
+Deployed App : https://claculator-shamikapawar.vercel.app/
+
+Preview : 
+
+![calci ss](https://user-images.githubusercontent.com/100352725/155950754-e88cb0fe-1a68-461d-acee-7cdf49ba167b.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
